@@ -6,7 +6,7 @@ body{
 header{
     padding: 5px;
     color: #f4f4f4;
-    background-image: url("https://github.com/Boonkai/testing/blob/master/images/flywheel.jpg");
+    background-image: url(flywheel.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     padding-bottom: 2%;
@@ -75,7 +75,7 @@ h2{
     height: 150px;
     border:2px solid #000;
     margin-top:20px;
-    background-image: url('https://github.com/Boonkai/testing/blob/master/images/15409853738_7dbfbfbac7_k.jpg');
+    background-image: url('15409853738_7dbfbfbac7_k.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -85,7 +85,7 @@ h2{
     height: 100px;
     border:2px solid #000;
     margin-top:20px;
-    background-image: url('https://github.com/Boonkai/testing/blob/master/images/Ultimate_Frisbee%2C_Jul_2009_-_19.jpg');
+    background-image: url('Ultimate_Frisbee%2C_Jul_2009_-_19.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -95,7 +95,7 @@ h2{
     height: 150px;
     border:2px solid #000;
     margin-top:20px;
-    background-image: url('https://github.com/Boonkai/testing/blob/master/images/Ultimate_Frisbee_Colorado_Cup_2005.jpg');
+    background-image: url('Ultimate_Frisbee_Colorado_Cup_2005.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
 }
