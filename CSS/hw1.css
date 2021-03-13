@@ -1,0 +1,155 @@
+body{
+    margin-top:1%;
+    padding:1%; 
+}
+
+header{
+    padding: 5px;
+    color: #f4f4f4;
+    background-image: url("../images/flywheel.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-bottom: 2%;
+}
+ 
+h1{
+    font-size: 150%;
+    text-align: center;
+    font-variant: small-caps;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+nav a{
+    font-size: 20px;
+    border-radius: 5px;
+    width: 15%;
+    padding:10px;
+    margin-right: 50px;
+    margin-top: 10px;
+    background-color: rgba(216, 220, 222, 0.384);
+    color:#000000;
+    display: inline-block;
+    text-decoration: none;
+}
+
+nav{
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+a:hover{
+    background: #f4f4f4;
+    color:#ff0000;
+}
+
+a:active{
+    color: #2600ff;
+}
+
+.right{
+    float:right;
+    width: 80%;
+    color: #000000;
+}
+
+h2{
+    color: #000000;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+
+.left{
+    float:left;
+    width: 20%;
+    height: 500px;
+    background:hsl(182, 61%, 35%);
+    box-sizing: border-box;
+    text-align: center;
+    overflow: auto;
+    
+}
+
+.image1{
+    width: 80%;
+    height: 150px;
+    border:2px solid #000;
+    margin-top:20px;
+    background-image: url('../images/15409853738_7dbfbfbac7_k.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.image2{
+    width: 80%;
+    height: 100px;
+    border:2px solid #000;
+    margin-top:20px;
+    background-image: url('../images/Ultimate_Frisbee\,_Jul_2009_-_19.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.image3{
+    width: 80%;
+    height: 150px;
+    border:2px solid #000;
+    margin-top:20px;
+    background-image: url('../images/Ultimate_Frisbee_Colorado_Cup_2005.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.table{
+    margin:0 auto;
+    color:#06425C;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:100px;
+    border-radius: 5px 5px 0 0;
+    font-size: 80%;
+    line-height: 2.1em;
+    width: 60%;
+}
+
+th{
+    color:#ffffff;
+    background:hsl(84, 78%, 40%);
+    border-radius: 5px 5px 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.5em;
+}
+
+th:nth-child(2){
+    text-align: center;
+}
+
+th:last-child{
+    text-align: center;
+}
+
+tr{
+    opacity: 0.8;
+}
+
+tr:first-child{
+    text-align: left;
+}
+
+td:nth-child(even) {
+    text-align:center;
+}
+
+td:last-child {
+    text-align:center;
+}
+
+tr:hover{
+    opacity: 1;
+}
+
+td{
+    padding: 5px;
+    color: hsl(0, 23%, 25%);
+    background: #e6e9e2;
+    border-radius: 2px;
+}
